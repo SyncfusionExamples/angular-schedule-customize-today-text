@@ -23,6 +23,13 @@ npm install
 ## Running on development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Documentation
+
+For comprehensive guidance on working with the Syncfusion Angular Scheduler, refer to the following resources:
+
+* [Angular Introduction](https://ej2.syncfusion.com/angular/documentation/introduction) - Get started with Syncfusion EJ2 for Angular
+* [Angular Schedule Component](https://ej2.syncfusion.com/angular/documentation/schedule/getting-started) - Complete documentation for the Scheduler component
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
