@@ -22,14 +22,14 @@ Before running this application, ensure you have the following installed:
 ## How to run this application?
 To run this application, you need to first clone this project repository and then navigate to its appropriate path where it has been located in your system.
 
-## Installing
+### Installing
 Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed angular packages into your current project and to do so, run the below command.
 
 ```
 npm install
 ```
 
-## Running on development server
+### Running on development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Documentation
