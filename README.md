@@ -1,14 +1,23 @@
-# Syncfusion Angular 11 Scheduler How to apply custom text to toolbar today item based on view
+# How to Customize Toolbar Today Button Text in Angular Scheduler Based on View
 
-This project helps you to create the Syncfusion Angular 11 Scheduler with applying custom text to toolbar today item based on view.
+This project helps you to create the [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler) with applying custom text to toolbar today item based on view.
 
-## Scheduler features covered in this Project
+## Features
 
-This is an Angular 11 project created using [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2. The Scheduler features included in this project are as follows.
+The Scheduler features included in this project are as follows.
+
 * Angular 11 Scheduler with applying custom text to toolbar today item based on view.
 * Angular 11 Scheduler displaying basic views with appointments loaded as TS data.
 * Drag and resize actions enabled for events by default.
 * Setting selected date and view for scheduler.
+
+## Prerequisites
+
+Before running this application, ensure you have the following installed:
+
+* Node.js (version 14.0.0 or higher recommended)
+* npm (Node Package Manager)
+* Angular CLI (version 11.0.2 or compatible)
 
 ## How to run this application?
 To run this application, you need to first clone this project repository and then navigate to its appropriate path where it has been located in your system.
